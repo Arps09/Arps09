@@ -3,7 +3,8 @@
   🚀 Aspiring Data Scientist | Web Developer | ML Enthusiast
 </p>
 
-<img src="https://media.tenor.com/bDpUk.gif" width="100%">
+<img src="https://i.imgur.com/TTg6QtV.gif" width="100%" alt="Coding Bunny">
+
 
 
 
