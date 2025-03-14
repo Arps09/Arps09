@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#F0A8D0;">Hi there, I'm Arpita Mishra! 👋</h1>
+<h1 align="center" style="color:#F0A8D0;">Hi there, I'm Arpita Mishra! 👋🏻</h1>
 <p align="center" style="color:#F7B5CA;">
   🚀 Aspiring Data Scientist | Web Developer | ML Enthusiast
 </p>
