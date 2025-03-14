@@ -31,7 +31,7 @@
 
 ## 🌟 Featured Projects:
 - **📚 [Online Bookshop Management System](https://github.com/Arps09/Online-Bookshop-Management-System)**
-- **🍏 [Fruit Detection and Color Analysis](https://github.com/your-repo-link)**
+- **🍏 [Fruit Detection and Color Analysis](https://github.com/Arps09/Fruit-detection-and-color-analysis)**
 - **✅ [Efficient Agreement Management](https://github.com/Arps09/Efficient-Agreement-Management)**
 
 ---
