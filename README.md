@@ -6,7 +6,7 @@
 <img src="https://i.imgur.com/TTg6QtV.gif" width="100%" alt="Coding Bunny">
 
 ## 👩‍💻 About Me:
-- 🎓 **B.Tech in C.V. Raman Global University, Bhubaneswar, Odisha.**
+- 🎓 B.Tech in C.V. Raman Global University, Bhubaneswar, Odisha.
 - 🧠 Artificial Intelligence and Machine Learning
 - 🤖 Working on AI & ML projects
 - 🌏 Visualization and Research
@@ -24,21 +24,21 @@
 ---
 
 ## 📊 GitHub Stats:
-![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arps09&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arps09&theme=github-dark)
+![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arps09&show_icons=true&title_color=#F0A8D0&text_color=#F7B5CA&icon_color=#FFC6C6&bg_color=#FFEBD4)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arps09&theme=github-dark&color=#F7B5CA)
 
 ---
 
 ## 🌟 Featured Projects:
 - **📚 [Online Bookshop Management System](https://github.com/your-repo-link)**
-- **🍎 [Fruit Detection and Color Analysis](https://github.com/your-repo-link)**
-- **📚 [Efficient Agreement Management](https://github.com/your-repo-link)**
+- **🍏 [Fruit Detection and Color Analysis](https://github.com/your-repo-link)**
+- **✅ [Efficient Agreement Management](https://github.com/your-repo-link)**
 
 ---
 
 ## 💌 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F0A8D0?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpita-mishra-415861253/)
-[![Twitter](https://img.shields.io/badge/Twitter-FFC6C6?style=for-the-badge&logo=twitter)](https://twitter.com/ArpitaMishra00)
+[![Twitter](https://img.shields.io/badge/Twitter-F7B5CA?style=for-the-badge&logo=twitter)](https://twitter.com/ArpitaMishra00)
 
 ---
 
