@@ -3,7 +3,8 @@
   🚀 Aspiring Data Scientist | Web Developer | ML Enthusiast
 </p>
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100%" alt="Cute Pink Girl Banner">
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="100%" alt="Coding Girl Banner">
+
 
 
 
