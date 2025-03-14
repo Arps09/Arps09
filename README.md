@@ -3,7 +3,8 @@
   🚀 Aspiring Data Scientist | Web Developer | ML Enthusiast
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner">
+<img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" alt="Cute Pink Banner">
+
 
 ## 👩‍💻 About Me:
 - 🎓 B.Tech in C.V. Raman Global University, Bhubaneswar, Odisha.
