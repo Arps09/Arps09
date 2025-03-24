@@ -28,13 +28,6 @@
 
 ---
 
-## 🌟 Featured Projects:
-- **📚 [Online Bookshop Management System](https://github.com/Arps09/Online-Bookshop-Management-System)**
-- **🍏 [Fruit Detection and Color Analysis](https://github.com/Arps09/Fruit-detection-and-color-analysis)**
-- **✅ [Efficient Agreement Management](https://github.com/Arps09/Efficient-Agreement-Management)**
-
----
-
 ## 🔗 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F0A8D0?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpita-mishra-415861253/)
 [![Twitter](https://img.shields.io/badge/Twitter-F7B5CA?style=for-the-badge&logo=twitter)](https://twitter.com/ArpitaMishra00)
