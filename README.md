@@ -16,7 +16,6 @@
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/Python-FFC6C6?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F7B5CA?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-F0A8D0?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFEBD4?style=for-the-badge&logo=tensorflow)
 ![Web Dev](https://img.shields.io/badge/Web_Development-FFC6C6?style=for-the-badge&logo=html5)
